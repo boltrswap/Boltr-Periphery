@@ -1,4 +1,4 @@
-![BoltrToolkit](https://github.com/boltrswap/Boltr-Toolkit/blob/main/toolkitreadme.jpg) 
+![BoltrToolkit](https://github.com/boltrswap/Boltr-Swap-Periphery/blob/main/boltrperipherylogo.jpg) 
 
 
 
