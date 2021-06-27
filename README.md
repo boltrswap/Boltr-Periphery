@@ -2,13 +2,13 @@
 
 
 
-Boltr Toolkit : Introduction
+Boltr Periphery : Introduction
 =====================================
 
 **Well created by Boltr Dev. (2021)**
 
 
-BoltrSDK is a core system behind the Boltrswap DEX on KCC
+Boltr Periphery
 
 
 ### Boltr Mission
